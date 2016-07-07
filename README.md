@@ -1,4 +1,4 @@
-# awesome-cancer-variant-dabasese
+# awesome-cancer-variant-databases
 A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants.
 
 # Cancer

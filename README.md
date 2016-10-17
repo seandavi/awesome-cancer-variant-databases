@@ -5,6 +5,7 @@ A community-maintained repository of cancer clinical knowledge bases and databas
 
 ## Clinically-focused
 
+- [CanDL](https://candl.osu.edu/) - an expert-curated database of potentially actionable driver mutations for molecular pathologists and laboratory directors to facilitate literature-based annotation of genomic testing of tumors. [web app, Download]
 - [CiViC](https://civic.genome.wustl.edu/#/home) - CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer. [web app, API, Download]
 - [DGIdb](http://dgidb.genome.wustl.edu/) - Mining the druggable genome for personalized medicine. [web app, API, Download]
 - [Database of Curated Mutations (DOCM)](http://docm.genome.wustl.edu/) - DoCM, the Database of Curated Mutations, is a highly curated database of known, disease-causing mutations that provides easily explorable variant lists with direct links to source citations for easy verification. [web app, API, Download]

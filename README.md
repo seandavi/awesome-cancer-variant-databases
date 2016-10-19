@@ -1,5 +1,5 @@
 # awesome-cancer-variant-databases
-A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants.
+A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants. [Contributions welcome](https://github.com/seandavi/awesome-cancer-variant-databases/blob/master/CONTRIBUTE.md]).
 
 # Cancer
 

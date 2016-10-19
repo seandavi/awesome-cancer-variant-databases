@@ -11,6 +11,7 @@ A community-maintained repository of cancer clinical knowledge bases and databas
 - [Database of Curated Mutations (DOCM)](http://docm.genome.wustl.edu/) - DoCM, the Database of Curated Mutations, is a highly curated database of known, disease-causing mutations that provides easily explorable variant lists with direct links to source citations for easy verification. [web app, API, Download]
 - [JAX Lab Clinical Knowledge Base](https://ckb.jax.org/) - The Jackson Laboratory Clinical Knowledgebase (CKB) is a semi-automated/manually curated database of gene/variant annotations, therapy knowledge, diagnostic/prognostic information, and clinical trials related to oncology. [web app]
 - [MyCancerGenome](https://www.mycancergenome.org/) - My Cancer Genome is a personalized cancer medicine knowledge resource for physicians, patients, caregivers and researchers.  My Cancer Genome gives up-to-date information on what mutations make cancers grow and related therapeutic implications, including available clinical trials. [web app, API, Download, *may require licensing*]
+- [Precision Medicine KnowledgeBase (PMKB)](https://pmkb.weill.cornell.edu/) - PMKB is organized to provide information about clinical cancer variants and interpretations in a structured way, as well as allowing users to submit and edit existing entries for continued growth of the knowledgebase. All changes are reviewed by cancer pathologists. [web app, Download]
 
 ## Catalogs
 

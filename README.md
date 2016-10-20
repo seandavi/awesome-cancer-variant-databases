@@ -38,6 +38,7 @@ A community-maintained repository of cancer clinical knowledge bases and databas
   - downloads: ftp
   - samples: about 900
 - [Kaviar](http://db.systemsbiology.net/kaviar/) - Kaviar (~Known VARiants) is a compilation of SNVs, indels, and complex variants observed in humans, designed to facilitate testing for the novelty and frequency of observed variants. Kaviar contains 162 million SNV sites (including 25M not in dbSNP) and incorporates data from 35 projects encompassing 77,781 individuals (13.2K whole genome, 64.6K exome). - [web app, API, Download]
+- [SweGen](https://swefreq.nbis.se/#/) - [Web app, API, Download]
  
   
 

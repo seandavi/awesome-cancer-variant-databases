@@ -17,6 +17,7 @@ A community-maintained repository of cancer clinical knowledge bases and databas
 
 - [COSMIC: Catalogue of Somatic Mutations in Cancer](http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/)
   - downloads: http
+- [ISB Cancer Genomics Cloud Pilot Bigquery Table for TCGA](https://bigquery.cloud.google.com/welcome/isb-cgc) [Web database, export as csv, json, etc.]
 
 # Germline
 

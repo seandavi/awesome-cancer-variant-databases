@@ -1,5 +1,5 @@
 CanDL:
-  name: CanDL: Cancer Driver Log
+  name: 'CanDL: Cancer Driver Log'
   url: https://candl.osu.edu/
   access:
     - web
@@ -24,7 +24,7 @@ CanDL:
     uploaded them to the CanDL database with associated literature
     reference.
 CIViC:
-  name: CIViC: Clinical Interpretation of Variants in Cancer
+  name: 'CIViC: Clinical Interpretation of Variants in Cancer'
   url: https://civic.genome.wustl.edu/
   doi:
     - 10.1038/ng.3774

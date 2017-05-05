@@ -1,0 +1,43 @@
+CanDL:
+  name: CanDL: Cancer Driver Log
+  url: https://candl.osu.edu/
+  access:
+    - web
+    - download
+  download_format: csv
+  features:
+    - includes 4 levels of evidence
+  curated: true
+  about: |
+    Recent advances in next generation sequencing technologies have
+    enabled comprehensive cancer genomic testing by molecular
+    pathologists across multiple tumor types. However, it is often
+    challenging to assign the clinical and biological relevance of
+    specific mutations observed in patients. While there is a
+    multitude of databases that provide in silico assessment, there is
+    no comprehensive database for annotating driver and passenger
+    mutations.  Therefore, we created an expert-curated database of
+    potentially actionable driver mutations for molecular pathologists
+    and laboratory directors to facilitate literature-based annotation
+    of genomic testing of tumors. We curated the chromosome location,
+    all possible nucleotide positions, for each amino acid change and
+    uploaded them to the CanDL database with associated literature
+    reference.
+CIViC:
+  name: CIViC: Clinical Interpretation of Variants in Cancer
+  url: https://civic.genome.wustl.edu/
+  doi:
+    - 10.1038/ng.3774
+    - 10.1101/072892
+  pmid: 28138153
+  download_url:
+    - https://civic.genome.wustl.edu/downloads/nightly/nightly-GeneSummaries.tsv
+    - https://civic.genome.wustl.edu/downloads/nightly/nightly-VariantSummaries.tsv
+    - https://civic.genome.wustl.edu/downloads/nightly/nightly-ClinicalEvidenceSummaries.tsv
+    - https://civic.genome.wustl.edu/downloads/nightly/nightly-VariantGroupSummaries.tsv
+  access:
+    - web
+    - API
+    - download
+  download_format: tsv
+  

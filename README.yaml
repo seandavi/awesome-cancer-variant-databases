@@ -8,6 +8,13 @@ CanDL:
   features:
     - includes 4 levels of evidence
   curated: true
+  record_count: 1820
+  category:
+    - somatic
+    - variant
+  genome_build: hg19
+  transcript_model: UCSC Genes
+  access_date: 2017-05-10
   about: |
     Recent advances in next generation sequencing technologies have
     enabled comprehensive cancer genomic testing by molecular

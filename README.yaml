@@ -5,6 +5,7 @@ CanDL:
     - web
     - download
   download_format: csv
+  last_update: 2015-07-31
   features:
     - includes 4 levels of evidence
   curated: true
@@ -12,6 +13,8 @@ CanDL:
   category:
     - somatic
     - variant
+    - protein-coding
+    - genomic
   genome_build: hg19
   transcript_model: UCSC Genes
   access_date: 2017-05-10

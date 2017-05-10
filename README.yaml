@@ -70,4 +70,6 @@ dbSNP:
     - germline
     - frequencies
     - genomic
+  record_count: 172,606,292
+  access_date: 2017-05-10
   

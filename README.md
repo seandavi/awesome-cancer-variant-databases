@@ -3,7 +3,7 @@ A community-maintained repository of cancer clinical knowledge bases and databas
 
 Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precision Genomic Oncology Applications*](https://doi.org/10.1101/144766).
 
-## Clinically-focused
+## Clinically-focused databases
 
 - [CanDL](https://candl.osu.edu/) - an expert-curated database of potentially actionable driver mutations for molecular pathologists and laboratory directors to facilitate literature-based annotation of genomic testing of tumors. [web app, Download]
 - [Cancer Genome Interpreter](https://www.cancergenomeinterpreter.org/) - designed to support the identification of tumor alterations that drive the disease and detect those that may be therapeutically actionable. CGI relies on existing knowledge collected from several resources and on computational methods that annotate the alterations in a tumor according to distinct levels of evidence. [web app, API]
@@ -38,6 +38,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [UK10K](http://www.uk10k.org/)
 - [GEUVADIS: Genetic European Variation in Health and Disease](http://www.geuvadis.org/web/geuvadis/home)
 - [SweGen](https://swefreq.nbis.se/#/) - [Web app, API, Download]
- 
-  
 
+## Variant Effect Prediction tools and databases
+
+- [fannsdb](http://bbglab.irbbarcelona.org/fannsdb/) - Combines ConDEL and TransFIC annotations. FannsDB is a database for Functional ANnotations for Non Synonymous SNVs which contains precalculated scores for several predictors. [Web app, Download]

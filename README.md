@@ -8,11 +8,15 @@ Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precis
 ## Clinically-focused
 
 - [CanDL](https://candl.osu.edu/) - an expert-curated database of potentially actionable driver mutations for molecular pathologists and laboratory directors to facilitate literature-based annotation of genomic testing of tumors. [web app, Download]
+- [Cancer Genome Interpreter](https://www.cancergenomeinterpreter.org/) - designed to support the identification of tumor alterations that drive the disease and detect those that may be therapeutically actionable. CGI relies on existing knowledge collected from several resources and on computational methods that annotate the alterations in a tumor according to distinct levels of evidence. [web app, API]
 - [CiViC](https://civic.genome.wustl.edu/#/home) - CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer. [web app, API, Download]
 - [DGIdb](http://dgidb.genome.wustl.edu/) - Mining the druggable genome for personalized medicine. [web app, API, Download]
 - [Database of Curated Mutations (DOCM)](http://docm.genome.wustl.edu/) - DoCM, the Database of Curated Mutations, is a highly curated database of known, disease-causing mutations that provides easily explorable variant lists with direct links to source citations for easy verification. [web app, API, Download]
 - [JAX Lab Clinical Knowledge Base](https://ckb.jax.org/) - The Jackson Laboratory Clinical Knowledgebase (CKB) is a semi-automated/manually curated database of gene/variant annotations, therapy knowledge, diagnostic/prognostic information, and clinical trials related to oncology. [web app]
 - [MyCancerGenome](https://www.mycancergenome.org/) - My Cancer Genome is a personalized cancer medicine knowledge resource for physicians, patients, caregivers and researchers.  My Cancer Genome gives up-to-date information on what mutations make cancers grow and related therapeutic implications, including available clinical trials. [web app, API, Download, *may require licensing*]
+- [OncoKB](http://oncokb.org/) - OncoKB, a comprehensive and curated precision oncology knowledge base, offers oncologists detailed, evidence-based information about individual somatic mutations and structural alterations present in patient tumors with the goal of supporting optimal treatment decisions. [web app, API, Download]
+- [PhamrGKB]() - PharmGKB is a comprehensive resource that curates knowledge about the impact
+of genetic variation on drug response for clinicians and researchers. [web app, Download]
 - [Precision Medicine KnowledgeBase (PMKB)](https://pmkb.weill.cornell.edu/) - PMKB is organized to provide information about clinical cancer variants and interpretations in a structured way, as well as allowing users to submit and edit existing entries for continued growth of the knowledgebase. All changes are reviewed by cancer pathologists. [web app, Download]
 
 ## Catalogs

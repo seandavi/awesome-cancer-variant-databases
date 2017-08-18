@@ -3,8 +3,6 @@ A community-maintained repository of cancer clinical knowledge bases and databas
 
 Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precision Genomic Oncology Applications*](https://doi.org/10.1101/144766).
 
-# Cancer
-
 ## Clinically-focused
 
 - [CanDL](https://candl.osu.edu/) - an expert-curated database of potentially actionable driver mutations for molecular pathologists and laboratory directors to facilitate literature-based annotation of genomic testing of tumors. [web app, Download]
@@ -21,30 +19,24 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Catalogs
 
+### Somatic
+
 - [COSMIC: Catalogue of Somatic Mutations in Cancer](http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/)
   - downloads: http
 - [ISB Cancer Genomics Cloud Pilot Bigquery Table for TCGA](https://bigquery.cloud.google.com/welcome/isb-cgc) [Web database, export as csv, json, etc.]
 
-# Germline
+### Germline
 
 - [dbSNP](http://www.ncbi.nlm.nih.gov/SNP/) - [Web app, API, Download]
+- [GnomAD](http://gnomad.broadinstitute.org/) - The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators, with the goal of aggregating and harmonizing both exome and genome sequencing data from a wide variety of large-scale sequencing projects, and making summary data available for the wider scientific community. The data set provided on this website spans 123,136 exome sequences and 15,496 whole-genome sequences from unrelated individuals sequenced as part of various disease-specific and population genetic studies. [Web app, ?API, Download]
+- [Kaviar](http://db.systemsbiology.net/kaviar/) - Kaviar (~Known VARiants) is a compilation of SNVs, indels, and complex variants observed in humans, designed to facilitate testing for the novelty and frequency of observed variants. Kaviar contains 162 million SNV sites (including 25M not in dbSNP) and incorporates data from 35 projects encompassing 77,781 individuals (13.2K whole genome, 64.6K exome). - [web app, API, Download]
 - [Exome Aggregation Consortium](http://exac.broadinstitute.org/) - [Web app, API, Download]
 - [1000 Genomes](http://www.1000genomes.org) - [Web app, API, Download]
-- [ClinVar](http://www.ncbi.nlm.nih.gov/clinvar/)
-  - downloads: ftp
-- [Exome Sequencing Project](http://evs.gs.washington.edu/EVS/)
-  - downloads: http
-  - samples: about 6500
+- [ClinVar](http://www.ncbi.nlm.nih.gov/clinvar/) - [Web app, Download]
+- [Exome Sequencing Project](http://evs.gs.washington.edu/EVS/) - [Web app, Download]
 - [Genome of the Netherlands](http://www.nlgenome.nl/)
-  - downloads: http
-  - samples: About 800
 - [UK10K](http://www.uk10k.org/)
-  - downloads: ftp
-  - samples: About 2000
 - [GEUVADIS: Genetic European Variation in Health and Disease](http://www.geuvadis.org/web/geuvadis/home)
-  - downloads: ftp
-  - samples: about 900
-- [Kaviar](http://db.systemsbiology.net/kaviar/) - Kaviar (~Known VARiants) is a compilation of SNVs, indels, and complex variants observed in humans, designed to facilitate testing for the novelty and frequency of observed variants. Kaviar contains 162 million SNV sites (including 25M not in dbSNP) and incorporates data from 35 projects encompassing 77,781 individuals (13.2K whole genome, 64.6K exome). - [web app, API, Download]
 - [SweGen](https://swefreq.nbis.se/#/) - [Web app, API, Download]
  
   

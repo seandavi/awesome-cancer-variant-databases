@@ -17,6 +17,32 @@ Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precis
 of genetic variation on drug response for clinicians and researchers. [web app, Download]
 - [Precision Medicine KnowledgeBase (PMKB)](https://pmkb.weill.cornell.edu/) - PMKB is organized to provide information about clinical cancer variants and interpretations in a structured way, as well as allowing users to submit and edit existing entries for continued growth of the knowledgebase. All changes are reviewed by cancer pathologists. [web app, Download]
 
+## Functional effect predictor software and databases
+
+- [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP) - [Download]
+- [myvariant.info](http://myvariant.info/) - [Web app, API]
+- [PolyPhen-2](http://genetics.bwh.harvard.edu/pph2) - [Software tool, Download]
+- [SIFT](http://sift.jcvi.org)
+- [MutationAssessor](http://mutationassessor.org)
+- [MutationTaster](http://www.mutationtaster.org)
+- [PROVEAN](http://provean.jcvi.org/index.php)
+- [CADD](http://cadd.gs.washington.edu)
+- [GERP++](http://mendel.stanford.edu/SidowLab/downloads/gerp/index.html)
+- [PhyloP and PhastCons](http://compgen.cshl.edu/phast/index.php)
+- [nsSNPAnalyzer](http://snpanalyzer.uthsc.edu/)
+- [SNPs&GO](http://snps-and-go.biocomp.unibo.it/snps-and-go)
+- [SNAP2](https://rostlab.org/services/snap2web/)
+- [SNPs3D](http://www.snps3d.org/)
+- [MutPred2](http://mutpred.mutdb.org/)
+- [AUTO-MUTE](http://binf2.gmu.edu/automute/)
+- [Panther](http://www.pantherdb.org/tools/csnpScoreForm.jsp)
+- [stSNP](http://ilyinlab.org/StSNP/)
+- [Condel](http://bg.upf.edu/fannsdb/) - a weighted average of multiple methods 
+- [CoVEC](https://sourceforge.net/projects/covec/files)
+- [CAROL](http://www.sanger.ac.uk/science/tools/carol)
+- [CHASM](http://wiki.chasmsoftware.org/index.php/Main_Page)
+- [CanDrA](http://bioinformatics.mdanderson.org/main/CanDrA\#CanDrA) - 96 structural, evolutionary and gene features 
+
 ## Catalogs
 
 ### Somatic

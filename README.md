@@ -13,7 +13,7 @@ Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precis
 - [JAX Lab Clinical Knowledge Base](https://ckb.jax.org/) - The Jackson Laboratory Clinical Knowledgebase (CKB) is a semi-automated/manually curated database of gene/variant annotations, therapy knowledge, diagnostic/prognostic information, and clinical trials related to oncology. [web app]
 - [MyCancerGenome](https://www.mycancergenome.org/) - My Cancer Genome is a personalized cancer medicine knowledge resource for physicians, patients, caregivers and researchers.  My Cancer Genome gives up-to-date information on what mutations make cancers grow and related therapeutic implications, including available clinical trials. [web app, API, Download, *may require licensing*]
 - [OncoKB](http://oncokb.org/) - OncoKB, a comprehensive and curated precision oncology knowledge base, offers oncologists detailed, evidence-based information about individual somatic mutations and structural alterations present in patient tumors with the goal of supporting optimal treatment decisions. [web app, API, Download]
-- [PhamrGKB]() - PharmGKB is a comprehensive resource that curates knowledge about the impact
+- [PharmGKB](https://next.pharmgkb.org/) - PharmGKB is a comprehensive resource that curates knowledge about the impact
 of genetic variation on drug response for clinicians and researchers. [web app, Download]
 - [Precision Medicine KnowledgeBase (PMKB)](https://pmkb.weill.cornell.edu/) - PMKB is organized to provide information about clinical cancer variants and interpretations in a structured way, as well as allowing users to submit and edit existing entries for continued growth of the knowledgebase. All changes are reviewed by cancer pathologists. [web app, Download]
 

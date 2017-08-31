@@ -19,7 +19,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Catalogs
 
-- [VarSome](https://varsome.com) Large, online aggregation database of variants. [example API query](https://api.varsome.com/lookup/15-73027478-T-C)
+- [VarSome](https://varsome.com) Large, online aggregation database of variants. VarSome is a knowledge base and aggregator for human genomic variants. We were frustrated with the amount of time it takes to look up variants in a number of public databases, and we decided to act. The result is a comprehensive resource that will save you both time and effort when looking up variant information. [example API query](https://api.varsome.com/lookup/15-73027478-T-C)
 
 ### Somatic
 

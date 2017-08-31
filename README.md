@@ -19,6 +19,8 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Catalogs
 
+- [VarSome](https://varsome.com) Large, online aggregation database of variants. [example API query](https://api.varsome.com/lookup/15-73027478-T-C)
+
 ### Somatic
 
 - [COSMIC: Catalogue of Somatic Mutations in Cancer](http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/)

@@ -41,6 +41,10 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [GEUVADIS: Genetic European Variation in Health and Disease](http://www.geuvadis.org/web/geuvadis/home)
 - [SweGen](https://swefreq.nbis.se/#/) - [Web app, API, Download]
 
+## Annotation tools and software
+
+- [PCGR](https://github.com/sigven/pcgr) - The Personal Cancer Genome Reporter (PCGR) is a stand-alone software package for functional annotation and translation of individual cancer genomes for precision oncology. It interprets both somatic SNVs/InDels and copy number aberrations. The software extends basic gene and variant annotations from the Ensembl’s Variant Effect Predictor (VEP) with oncology-relevant, up-to-date annotations retrieved flexibly through vcfanno, and produces interactive HTML reports intended for clinical interpretation. - [Software tool]
+
 ## Variant Effect Prediction tools and databases
 
 - [fannsdb](http://bbglab.irbbarcelona.org/fannsdb/) - Combines ConDEL and TransFIC annotations. FannsDB is a database for Functional ANnotations for Non Synonymous SNVs which contains precalculated scores for several predictors. [Web app, Download]

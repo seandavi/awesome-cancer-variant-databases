@@ -1,7 +1,7 @@
 # awesome-cancer-variant-databases
 A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer and normal variants. [Contributions welcome](https://github.com/seandavi/awesome-cancer-variant-databases/blob/master/CONTRIBUTE.md]).
 
-Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precision Genomic Oncology Applications*](https://doi.org/10.1101/144766).
+Also see our [bioRxiv manuscript, *Resources For Interpreting Variants In Precision Genomic Oncology Applications*](https://doi.org/10.1101/144766) and [Frontiers in Oncology Publication](https://doi.org/10.3389/fonc.2017.00214)
 
 ## Clinically-focused databases
 

@@ -71,4 +71,4 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [CAROL](http://www.sanger.ac.uk/science/tools/carol)
 - [CHASM](http://wiki.chasmsoftware.org/index.php/Main_Page)
 - [CanDrA](http://bioinformatics.mdanderson.org/main/CanDrA\#CanDrA) - 96 structural, evolutionary and gene features 
-
+- [Kipoi](https://kipoi.org/) - Kipoi is an API and a repository of ready-to-use trained models for genomics. It currently contains 2074 different models, covering canonical predictive tasks in transcriptional and post-transcriptional gene regulation. Kipoi's API is implemented as a python package and it is also accessible from the command line or R.
